@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shristy</h1>
 <h3 align="center">A Machine Learning and Data Science Enthusiast !</h3>
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.cu5UBGhi9a5sdmAQfaUTKgHaF3?pid=ImgDet&rs=1">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.rwoZV2uY1k-Ar7_L3dQ4eAHaHa?pid=ImgDet&w=1023&h=1024&rs=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristyyx&label=Profile%20views&color=0e75b6&style=flat" alt="shristyyx" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
