@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shristy</h1>
-<h3 align="center">A Machine Learning Enthusiast !</h3>
+<h3 align="center">A Machine Learning and Data Science Enthusiast !</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristyyx&label=Profile%20views&color=0e75b6&style=flat" alt="shristyyx" /> </p>
