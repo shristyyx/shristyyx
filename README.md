@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shristy</h1>
 <h3 align="center">A Machine Learning Enthusiast !</h3>
 
-<img align = "right" alt = "coding" width ="400" src="https://www.bing.com/images/search?view=detailV2&ccid=c5jKjZhX&id=6FC32173A96C793E7074A5322D702C4AC2EED23F&thid=OIP.c5jKjZhX7VS8AjmgilB-XAHaE8&mediaurl=https%3A%2F%2Fwww.theedublogger.com%2Ffiles%2F2018%2F12%2FCoding-22qjqiz-1a4zgmh-1080x721.jpeg&exph=721&expw=1080&q=coding+&simid=608021576917002512&form=IRPRST&ck=7E0696815683F2D249A71DAD2D1620C5&selectedindex=70&ajaxhist=0&ajaxserp=0&vt=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristyyx&label=Profile%20views&color=0e75b6&style=flat" alt="shristyyx" /> </p>
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **shristythakur2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing](https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing)
+- 📄 Know about my experiences through my resume [[https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing](http://ml6.in/BbOcK)](https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
