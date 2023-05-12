@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shristythakur2003@gmail.com**
 
-- 📄 Know about my experiences through my resume [[https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing](http://ml6.in/BbOcK)](https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing)
+- 📄 Know about my experiences through my resume [(https://drive.google.com/file/d/13ipmY9IzgnnPF5vg7ShLYsL09a7wkuC8/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
