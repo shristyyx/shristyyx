@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristyyx&label=Profile%20views&color=0e75b6&style=flat" alt="shristyyx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shristyyx" alt="shristyyx" /></a> </p>
-
 - 🔭 I’m currently studying in **Second Year of Bachelor's of Engineering**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
@@ -39,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shristyyx&show_icons=true&locale=en" alt="shristyyx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shristyyx&" alt="shristyyx" /></p>
+
