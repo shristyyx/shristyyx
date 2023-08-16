@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shristy</h1>
 <h3 align="center">A Machine Learning Enthusiast !</h3>
 💫 About Me:
-🔭 I’m currently studying in second year of Bachelor's of Engineering<br>👯 I’m looking forward to learn Machine Learning, Data Analysis and Web Development<br>🤝 I have worked in Machine Learning, Programming languages and UI/UX<br>🌱 I’m currently learning Operating Systems and Operating Systems<br>💬 Ask me about Data Structures and Algorithms<br>
+🔭 I’m currently studying in pre final year of Bachelor's of Engineering<br>👯 I’m looking forward to learn Machine Learning, Data Analysis and Web Development<br>🤝 I have worked in Machine Learning, Programming languages and UI/UX<br>🌱 I’m currently learning Operating Systems and Operating Systems<br>💬 Ask me about Data Structures and Algorithms<br>
 
 
 
