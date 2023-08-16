@@ -5,7 +5,6 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.rwoZV2uY1k-Ar7_L3dQ4eAHaHa?pid=ImgDet&w=1023&h=1024&rs=1">
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shristythakur2003) 
