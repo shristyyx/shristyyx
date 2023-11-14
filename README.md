@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shristy</h1>
+<h1 align="center">Heyya, I'm Shristy</h1>
 <h3 align="center">and I am learning!</h3>
-💫 About Me:
-🔭 I’m currently studying in pre final year of Bachelor's of Engineering<br>👯 I’m looking forward to learn Machine Learning, Data Analysis and Web Development<br>🤝 I have worked in Machine Learning, Programming languages and UI/UX<br>🌱 I’m currently learning Operating Systems and Operating Systems<br>💬 Ask me about Data Structures and Algorithms<br>
+I’m currently studying in pre final year of Bachelor's of Engineering. I’m keen to work on Machine Learning models, Data Analysis and Web Development projects. I have hands on experience in programming languages C++, Python, Java. I have built multiple projects using Pygame and machine learning algorithms. I have solved over 700 problems in various coding platforms like Codeforces and Hackerrank. I’m currently learning Operating Systems and Computer Networking. My skillset includes database management systems, object oriented programming, web development and UI/UX.  
 
 
 
