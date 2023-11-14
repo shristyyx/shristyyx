@@ -21,7 +21,7 @@
 
 
 ## Coding Profiles:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shristythakur2003) 
+
 <p align="left">
 
 <a href="https://www.codechef.com/users/shristythakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shristythakur" height="30" width="40" /></a>
