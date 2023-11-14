@@ -1,8 +1,8 @@
 <h1 align="center">Heyya, I'm Shristy</h1>
-<h3 align="center">and I am learning!</h3>
-I’m currently studying in pre final year of Bachelor's of Engineering. I’m keen to work on Machine Learning models, Data Analysis and Web Development projects. I have hands on experience in programming languages C++, Python, Java. I have built multiple projects using Pygame and machine learning algorithms. I have solved over 700 problems in various coding platforms like Codeforces and Hackerrank. I’m currently learning Operating Systems and Computer Networking. My skillset includes database management systems, object oriented programming, web development and UI/UX.  
+<h3 align="center">Technology Intern - Barclays UK' 23 | NGWL ' 23 | Upcoming SWE Intern - Microsoft' 24 | Secretary - Magazine Board AIT' 23</h3>
+<h2> I’m currently studying in pre final year of Bachelor's of Engineering. I’m keen to work on Machine Learning models, Data Analysis and Web Development projects. I have hands on experience in programming languages C++, Python, Java. I have built multiple projects using Pygame and machine learning algorithms. I have solved over 700 problems in various coding platforms like Codeforces and Hackerrank. I’m currently learning Operating Systems and Computer Networking. My skillset includes database management systems, object oriented programming, web development and UI/UX.  
 
-
+</h2>
 
 
 ## 🌐 Socials:
